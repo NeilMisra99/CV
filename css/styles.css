@@ -9,7 +9,7 @@ hr{
     width: 5%;
 }
 img{
-    height: fit-content;
+    height: auto;
     width: 200px;
     border-radius: 50%;
 }
